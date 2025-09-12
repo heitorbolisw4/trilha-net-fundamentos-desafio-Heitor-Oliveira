@@ -2,6 +2,7 @@ using System.ComponentModel;
 
 namespace DesafioFundamentos.Models
 {
+    
     public class Estacionamento
     {
         private decimal precoInicial = 0;
